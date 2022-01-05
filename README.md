@@ -3,5 +3,5 @@ Creates an excel file ready with a specific formula, and with specified number o
 
 The project was created in IntelliJ IDEA.
 
-To run the program, run
+To run the program in Windows, run
 out/artifacts/automateExcel_jar/runAutomateExcel.bat
